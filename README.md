@@ -6,4 +6,5 @@ This contains resources for web development - (front end)
 # How does the web works - https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/How_the_Web_works
 # Git Download LInk for windows OS - https://git-scm.com/download/win
 # Sematic HTML - https://www.semrush.com/blog/semantic-html5-guide/
+# How to Use Colors - https://blog.codeminer42.com/colors-on-websites-part-ii/?ref=dailydev
 
