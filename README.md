@@ -7,4 +7,5 @@ This contains resources for web development - (front end)
 # Git Download LInk for windows OS - https://git-scm.com/download/win
 # Sematic HTML - https://www.semrush.com/blog/semantic-html5-guide/
 # How to Use Colors - https://blog.codeminer42.com/colors-on-websites-part-ii/?ref=dailydev
+# CSS Flex box guide - https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 
